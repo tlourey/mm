@@ -1,4 +1,8 @@
 ---
 permalink: /pages/:title/
-title: "About"
+title: "My New Page"
 ---
+
+## My new page
+
+My new page
